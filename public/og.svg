@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#071016"/>
+  <circle cx="1040" cy="80" r="220" fill="#3EE0B0" fill-opacity="0.08"/>
+  <circle cx="160" cy="560" r="180" fill="#7C9CFF" fill-opacity="0.08"/>
+  <text x="80" y="250" fill="#8B9AAB" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28" letter-spacing="0.28em">NETWORK ENGINEERING</text>
+  <text x="80" y="360" fill="#F4F7F5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="92" font-weight="700">Raunak Raj</text>
+  <text x="80" y="430" fill="#3EE0B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32">Senior Network Engineer · Identity · ZTNA · Automation</text>
+</svg>
